@@ -1,0 +1,18 @@
+We have bulit-in middle ware function 
+and also we can creat own middle ware function 
+
+bascially when a request is coming from cilent to server , it has to pass many middleware , this called request processing pipeline.
+
+There are some example of bulitin middleware like 
+
+app.use(express.json()) ; // yeh jab request as a json file aa rahi h tho ushe read karke req.body mai daal deta h 
+
+second is 
+app.use(express.urlencoded()) // this is also a bulit-in middleware 
+// yeh thab kaam karta h jab values form mai bhar kar aa rahi h ho like
+// key1=value&key2=value&key3=value
+// yeh link bane kar tab aati h jab hum form mai response fill kar server ko send kar rahe ho 
+
+
+app.use(express.urlencoded({ extended : true}))
+// yeh uper wale ka baap h isme sab aa jaayge like array aa raha ho request mai ishe  

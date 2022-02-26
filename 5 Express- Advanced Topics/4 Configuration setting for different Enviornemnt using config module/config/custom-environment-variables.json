@@ -1,0 +1,5 @@
+{
+
+    "password" : "app_password1",
+    "_comment" : "Yaha me app-password1 me store kar denge using enviorment variable like in command terminal we will write export app-password1=REAL-PASSWORD    and then we will use this variable in our code"
+ }

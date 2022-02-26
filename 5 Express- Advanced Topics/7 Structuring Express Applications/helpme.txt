@@ -1,0 +1,5 @@
+for this section you shoudl watch the video of this lecture 
+this video is all about how to stucture the code 
+// actually i already put in differnet folder so i dont have enough content to do this 
+// but u should must see the lecture 
+// you will learn how to work in a big project

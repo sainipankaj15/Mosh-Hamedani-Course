@@ -1,0 +1,13 @@
+https://github.com/sainipankaj15/Express-Dance-Website-Using-Pug/tree/completeprojectwithdatabse
+
+ishe file mai static karke ek folder h usme statics file hi rakhi hui h 
+
+statics file ka means wo h jo files hum bina kis k bakchodi k cilent tak pucha deni h 
+like .css file 
+and .txt file and documents 
+and file which we dont have to public 
+
+so using statics you have to write in you app.js is
+
+app.use('/static', express.static('static'));  // serving static file 
+// static is the folder name and some people use it as a public so dont be confuse

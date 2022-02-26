@@ -1,0 +1,8 @@
+{
+
+    "name": "This is our production environment",
+    "password" : "app_password1",
+    "_comment": "password ko hum public mai kahi share nahi kar sakte h so for it to be secure and hum isko custom environment variables folder mai karke password ko share kar sakte h"
+   
+
+ }
