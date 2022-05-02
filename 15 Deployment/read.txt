@@ -1,0 +1,8 @@
+Here in this section , We did most important of process 
+we deploy our project it means now everyone can accesss this project 
+
+We used Herkou CLI in lecutres but in future we will not use this 
+we will create a repo on github and will give the github link on Herku app 
+
+
+We dont need to worry about that Herkou CLI
